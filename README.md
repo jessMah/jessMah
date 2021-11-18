@@ -9,7 +9,7 @@ Provides mental health surveys, check-ins, and advice in order to spread awarene
 - Allows user to get in touch with their feelings and emotions
 - Personalized design/user experience
 - Tackles the root causes mental health issues during the pandemic (ex. greif, isolation, etc.)
-- 
+
 ## How I built this 
 - Coded in the compiler/software Qoom
 - Written with Javascript, HTML, CSS
