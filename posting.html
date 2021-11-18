@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>		
+		<link rel="stylesheet" href="styles.css">
+		<link rel="stylesheet" href="styles.css">
+		<script type="module" src="script.js"></script>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<title>CALM</title></head>
+	<body>
+		
+		<div id="nav-block">
+			<nav>
+				<ul class="nav">
+					<li><a class="current" href="index.html"> Home </a> </li>
+					<li><a href="survey.html"> Mental Health Survey </a> </li>
+					<li><a href="posting.html"> Share Your Story </a> </li>
+					<li><a href="checkIn.html"> Daily Check-in </a> </li>
+				</ul>
+			</nav>	
+		</div>
+		<div class = "box-1">
+		<script src = "posting.js"></script>
+		<h1 style="text-align:center;" > Share Your Story </h1>
+		<h3 style="text-align:center;"> Your responses are completely anonymous</h3>
+		
+		<p style="text-align:center;"> Mental Health Tip: In addition to sharing your story, try to think of one positive thing from the experience or one important lesson you learned.</p>
+		
+		<center> 
+			<center> 
+				Date: <input id = "date">
+			</center> 
+				<textarea id = "posting" name = "myPost" value = ""> 
+				</textarea>
+					
+			<center> <input type = "button" value = "Post" onclick = "post()" />
+			</center> 
+		</center>
+		
+		</div>
+		<h3 style = 'text-align:center;'> Connect with Others (Relate to people's experiences): </h3>
+		<!--<h4 id = "dateDisplay"></h4>-->
+		<!--<p id = "display"></p>-->
+	</body>
+</html>
