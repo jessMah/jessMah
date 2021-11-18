@@ -14,7 +14,7 @@ Provides mental health surveys, check-ins, and advice in order to spread awarene
 - Coded in the compiler/software Qoom
 - Written with Javascript, HTML, CSS
 
-## Accomplishments that we are proud of 
+## Accomplishments that I am proud of 
 - First time trying a Hackathon all by myself
 - This was my first time trying CSS to create a graphic user interface and my second time using Javascript and HTML. So, I am proud that I pushed myself/went out of my comfort zone to learn these new skills and create a new idea. 
 - I am also happy that the project I created contained a large breadth of functions.
