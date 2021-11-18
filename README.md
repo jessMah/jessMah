@@ -1,4 +1,4 @@
-CALM (Covid-19 and Life Management)
+Project Name: CALM (Covid-19 and Life Management)
 ==================
 ## What is it?
 Provides mental health surveys, check-ins, and advice in order to spread awareness and help people struggling with mental health issues during the Covid-19 Pandemic. Also, it contains a 'Share Your Story' feature, which allows users to connect with others facing similar struggles.
